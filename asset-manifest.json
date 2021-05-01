@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Santrip19/parcial3%E2%80%8B/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/Santrip19/parcial3%E2%80%8B/static/js/main.3cf8091e.chunk.js",
+    "main.js.map": "/Santrip19/parcial3%E2%80%8B/static/js/main.3cf8091e.chunk.js.map",
+    "runtime-main.js": "/Santrip19/parcial3%E2%80%8B/static/js/runtime-main.a2dab0d2.js",
+    "runtime-main.js.map": "/Santrip19/parcial3%E2%80%8B/static/js/runtime-main.a2dab0d2.js.map",
+    "static/js/2.dcae20d6.chunk.js": "/Santrip19/parcial3%E2%80%8B/static/js/2.dcae20d6.chunk.js",
+    "static/js/2.dcae20d6.chunk.js.map": "/Santrip19/parcial3%E2%80%8B/static/js/2.dcae20d6.chunk.js.map",
+    "static/js/3.ef478c0f.chunk.js": "/Santrip19/parcial3%E2%80%8B/static/js/3.ef478c0f.chunk.js",
+    "static/js/3.ef478c0f.chunk.js.map": "/Santrip19/parcial3%E2%80%8B/static/js/3.ef478c0f.chunk.js.map",
+    "index.html": "/Santrip19/parcial3%E2%80%8B/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/Santrip19/parcial3%E2%80%8B/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.dcae20d6.chunk.js.LICENSE.txt": "/Santrip19/parcial3%E2%80%8B/static/js/2.dcae20d6.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Santrip19/parcial3%E2%80%8B/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2dab0d2.js",
+    "static/js/2.dcae20d6.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.3cf8091e.chunk.js"
+  ]
+}
